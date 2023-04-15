@@ -1,5 +1,126 @@
+.rahma{
+
+    width: 50%;
+    color: grey;
+    margin-right:2%;
+    }
 .flex{
-display: flex;
-justify-content: left;
-size:20%;
+    display:flex ;
+    justify-content:center;
+    size: 50%;
+       
+    font-size:1.125rem;
+       }
+    
+    .donation{
+    width: 50%;
+    color:white;
+    border: radius 20px;
+    padding: 25px;
+    margin-right:3%;
+    background-color:#8f00b3;
+    }
+    .make{
+    
+    }
+    .volonteer{
+width: 50%;
+background-color: #8f00b3;
+    }
+    
+    .dd{
+        display:flex;
+        line-height: 24px;
+        padding: 1rem;
+        justify-content:last baseline;
+        
+    }
+    .let{
+    width:70%;
+    }
+    .about{
+    display:flex;
+    background-color:  #e599f8;;
+    justify-content:right;
 }
+.tete{
+   color:rgb(79, 79, 245);
+   font-style: italic;
+   size:30%;
+   font-style: bold;
+   width: 70%;
+   height:30%;
+   justify-content: left;
+}
+    
+    .foto{
+    height: 0%;
+    }
+.tt{
+display:flex;
+align-items:baseline;
+justify-content:space-between;
+}
+.re{
+
+height:50%
+}
+.pictures{
+
+width:30%;
+}
+.SS{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+.title{
+color:#c966a3;;
+font-size:5.125rem;
+margin: 0;
+padding:0;
+text-align: center;
+size:50%;
+font-weight: 300
+
+}
+.fin{
+    display:flex;
+    background-color: #e599f8;
+    justify-content:right;
+}
+
+#ed{
+  background:rgb(171, 185, 189);
+  max-width: 680px;
+    height: 238px;
+    margin: 0px;
+    width: 462px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
