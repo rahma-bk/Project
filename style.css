@@ -39,6 +39,7 @@ background-color: #8f00b3;
     width:70%;
     }
     .about{
+    color: #8f00b3;
     display:flex;
     background-color:  #e599f8;;
     justify-content:right;
@@ -57,14 +58,10 @@ background-color: #8f00b3;
     height: 0%;
     }
 .tt{
-display:flex;
-align-items:baseline;
-justify-content:space-between;
-}
-.re{
 
-height:50%
+
 }
+
 .pictures{
 
 width:30%;
@@ -94,13 +91,27 @@ font-weight: 300
 
 #ed{
   background:rgb(171, 185, 189);
+  margin-right:1%;
   max-width: 680px;
-    height: 238px;
+    height: 70%;
     margin: 0px;
     width: 462px;
     
 }
+.button{
+color: #c966a3;
+background-color:rgb(173, 233, 241);;
+}
+.dropbox{
+background-color: #e599f8;
 
+}
+.show{
+background-color:#e599f8;
+}
+.health{
+margin-left:1%;
+}
 
 
 
